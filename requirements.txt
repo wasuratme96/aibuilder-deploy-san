@@ -1,0 +1,5 @@
+torch
+numpy
+cv2
+matplotlib.pyplot
+gdown
